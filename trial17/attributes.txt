@@ -1,0 +1,5 @@
+adjective1 = small 
+adjective2 = big 
+type = grouped
+trialid = 17 
+adjectivetype = relative
