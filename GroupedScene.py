@@ -1,8 +1,5 @@
 import Tkinter as Tk
-#import os,random,Tkinter
-#from PIL import Image, ImageTk
 from SpecifiedStimulus import SpecifiedStimulus
-#from DataRecorder import *
 from PIL import Image
 
 
